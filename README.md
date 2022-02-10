@@ -1,2 +1,2 @@
-# regressaolinear
-Passo a passo com um modelo de Regressão Linear
+# Modelo de Regressão Linear Simples
+
